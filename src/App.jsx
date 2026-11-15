@@ -1,5 +1,5 @@
 // import React from "react";
-// import img1 from "./images/bhawa.jpg"
+// import img1 from "./images/bhawa.jpeg"
 
 // const App = () => {
 //   const skills = ["HTML", "CSS", "JavaScript", "React", "Git"];
@@ -133,7 +133,7 @@
 
 
 import React, { useState } from "react";
-import img1 from "./images/bhawa.jpg";
+import img1 from "./images/bhawa.jpeg";
 
 /* Royal blue + gray palette
    royal   #1E3FAE   deep   #14296F   sky   #DCE4FA
